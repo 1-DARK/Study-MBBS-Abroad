@@ -64,7 +64,8 @@ This website serves as a comprehensive guide for students looking to pursue MBBS
 - Country selection interface
 - Process timeline visualization
 
-- 
+## Usage
+
 - **HTML Pages:** Open any of the demo HTML pages (e.g., `ASSIGN.html`) in your preferred browser to see the interface and interactive elements.
 -**Tailwind CSS:** Customize your styles by modifying `tailwind.config.js`.
   
