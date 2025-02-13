@@ -80,6 +80,23 @@ This website serves as a comprehensive guide for students looking to pursue MBBS
 
 This website aims to provide comprehensive information and support for international medical education aspirants while maintaining a user-friendly interface and optimal performance across all devices.
 
+## Installation
+
+1. **Clone the Repository:**
+   ```bash
+   git clone https://github.com/1-DARK/Study-MBBS-Abroad/tree/master
+   cd testline
+   ```
+2. **Install Dependencies:**
+   ```bash
+   npm install
+   ```
+3. **Run the Project:**
+   ```bash
+   npm start
+   ```
+
+
 ## Contributing
 
 Contributions are welcome! To contribute:
@@ -89,4 +106,10 @@ Contributions are welcome! To contribute:
 3. Commit your changes (`git commit -m 'Add your feature'`).
 4. Push to the branch (`git push origin feature/your-feature`).
 5. Open a pull request with a detailed description of your changes.
+
+
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for further details.
 
