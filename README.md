@@ -85,7 +85,7 @@ This website aims to provide comprehensive information and support for internati
 1. **Clone the Repository:**
    ```bash
    git clone https://github.com/1-DARK/Study-MBBS-Abroad/tree/master
-   cd testline
+   cd Study-MBBS-Abroad
    ```
 2. **Install Dependencies:**
    ```bash
